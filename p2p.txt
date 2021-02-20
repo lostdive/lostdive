@@ -22,3 +22,21 @@ zooqle.com
 www.magnetdl.com
 0.0.0.0 www.torrentdownloads.me
 www.torrentdownloads.me
+
+#youtube
+www.youtube.com
+0.0.0.0 www.youtube.com
+yt.com
+0.0.0.0 yt.com
+vimeo.com
+0.0.0.0 vimeo.com
+www.metacafe.com
+0.0.0.0 www.metacafe.com
+9gag.com
+0.0.0.0 9gag.com
+archive.org
+0.0.0.0 archive.org
+www.dailymotion.com
+0.0.0.0 www.dailymotion.com
+www.imdb.com
+0.0.0.0 www.imdb.com
