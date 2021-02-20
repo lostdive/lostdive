@@ -1,0 +1,24 @@
+0.0.0.0 thepiratebay.org
+thepiratebay.org
+0.0.0.0 yts.mx
+yts.mx
+0.0.0.0 1337x.to
+1337x.to
+0.0.0.0 www.utorrent.com
+www.utorrent.com
+0.0.0.0 www.bittorrent.com
+www.bittorrent.com
+0.0.0.0 rarbg.to/index80.php
+rarbg.to/index80.php
+0.0.0.0 www.limetorrents.info
+www.limetorrents.info
+0.0.0.0 kickasstorrents.to
+kickasstorrents.to
+0.0.0.0 eztv.re
+eztv.re
+0.0.0.0 zooqle.com
+zooqle.com
+0.0.0.0 www.magnetdl.com
+www.magnetdl.com
+0.0.0.0 www.torrentdownloads.me
+www.torrentdownloads.me
